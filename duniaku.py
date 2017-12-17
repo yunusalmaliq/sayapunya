@@ -1,3 +1,4 @@
+print("++++++++")
 flag=1
 while (flag):
 	nama =input ("masukan nama : ")
